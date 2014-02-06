@@ -1,0 +1,29 @@
+{
+  "name": "robotaudio-knob",
+  "version": "0.5.0",
+  "description": "UI Knob for web audio applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/robotaudio/knob"
+  },
+  "keywords": [
+    "UI",
+    "knob",
+    "backbone",
+    "web",
+    "audio"
+  ],
+  "author": "joshontheweb",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/robotaudio/knob/issues"
+  },
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "underscore": "~1.5.2"
+  }
+}
